@@ -1,0 +1,11 @@
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\bin\Debug\JoystickMapper.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\bin\Debug\JoystickMapper.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\bin\Debug\JoystickMapper.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\obj\Debug\JoystickMapper.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\obj\Debug\JoystickMapper.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\obj\Debug\JoystickMapper.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\obj\Debug\JoystickMapper.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\obj\Debug\JoystickMapper.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\bin\Debug\HidLibrary.dll
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\bin\Debug\HidLibrary.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\JoystickMapper\JoystickMapper\obj\Debug\JoystickMapper.JoystickMapper.resources
